@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\MD_Style\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\workspace\MD_Style\app\build\intermediates\pre-dexed\debug\classes-14a11de50f0982cb4568a88913093ea76fbae1cb.jar" />
+    </item>
+    <item
+        jar="D:\Eclipise\android-sdk_r24.2-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\workspace\MD_Style\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-04dce3bb400defa1610d8a4116c287eb12074f6e.jar" />
+    </item>
+    <item
+        jar="D:\workspace\MD_Style\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="D:\workspace\MD_Style\app\build\intermediates\pre-dexed\debug\classes-4f2c20f1265b0afc5a32ba2f31aad70584ec3fff.jar" />
+    </item>
+    <item
+        jar="D:\workspace\MD_Style\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\workspace\MD_Style\app\build\intermediates\pre-dexed\debug\classes-bfbbd6fd2cd6d5029f3208ba6bfb19128fa04f30.jar" />
+    </item>
+    <item
+        jar="D:\workspace\MD_Style\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\workspace\MD_Style\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-bc404ae6c839c88ce14bb89296f6c90967aca7a6.jar" />
+    </item>
+
+</items>
